@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with amazing and very talented people!
 - ⚡ Fun fact: I´m a NFL fan! Go Colts! 🏈
 -->
+
+<img align="right" alt="Coding" width="400" src="https://images4.alphacoders.com/148/148414.jpg">
